@@ -9,6 +9,7 @@
         <h1 align="center">This is my repository for UCODE marathon works, such as Sprints, Races, Checkpoints and Endgame..</h1>
     </p>
 </head>
+
 <body>
     <table align="left">  
         <tr>
@@ -17,7 +18,7 @@
             <th>Date</th>
             <th>Grade</th>
         </tr>
-        <tr>
+        <tr><img src="https://www.iamag.co/wp-content/uploads/2015/11/Caravan-Palace-Lone-Digger-2.jpg" width="199" height="133" alt="Книга">
             <th>Sprint00</th>
             <th>The basics of UNIX systems (shell, terminal, UNIX utilities, git, etc).</th>
             <th>09.09.2020</th>
