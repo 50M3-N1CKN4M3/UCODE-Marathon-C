@@ -10,12 +10,7 @@
     </p>
 </head>
 
-<table id="ucode">
-    <style>
-      ucode{
-        background-image:https://www.iamag.co/wp-content/uploads/2015/11/Caravan-Palace-Lone-Digger-2.jpg;
-        }
-    </style>    
+<table width="200" bgcolor="#c0c0c0" cellspacing="0" cellpadding="5" border="1" align="right">  
     <tr>
         <th>Name</th>
         <th>Description</th>
