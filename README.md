@@ -10,7 +10,7 @@
     </p>
 </head>
 
-<table width="200" bgcolor="#9B5BFF" cellspacing="0" cellpadding="5" border="5" align="right">  
+<table width="200" bgcolor="#9B5BFF" cellspacing="0" cellpadding="5" border="50" align="right">  
     <tr>
         <th>Name</th>
         <th>Description</th>
