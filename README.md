@@ -10,6 +10,7 @@
         <a href="https://lms.ucode.world/users/plitovka/" target="_blank">
             <p align="center"><img src="https://s3.amazonaws.com/dntstatic//dad227a9-c776-4063-46cc-f5b9975f94b5_256_256.png" height="40px"></p>
         </a>
+        <p align="center" height="5px">LMS</p>
     </p>
 </head>
 
