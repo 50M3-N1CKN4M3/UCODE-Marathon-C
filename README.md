@@ -1,6 +1,6 @@
 <head>
     <p align="center">
-        <a href="https://unitfactory.net/en/" target="_blank">
+        <a href="https://unitfactory.net/" target="_blank">
             <img src="https://github.com/slava-pleshkov/unit-factory-ucode/blob/master/.git_images/unit_logo.png?raw=true" height="100px">
         </a>
         <a href="https://ucode.world/en/" target="_blank">
@@ -10,7 +10,7 @@
     </p>
 </head>
 
-<table width="200" bgcolor="#9B5BFF" cellspacing="0" cellpadding="5" border="50" align="right">  
+<table width="200" bgcolor="#9B5BFF" border="50" align="left">  
     <tr>
         <th>Name</th>
         <th>Description</th>
