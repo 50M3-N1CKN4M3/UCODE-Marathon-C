@@ -6,6 +6,7 @@
         <img src="https://github.com/slava-pleshkov/unit-factory-ucode/blob/master/.git_images/ucode_logo.png?raw=true" height="100px">
     </a>
     <h1 align="center">This is my repository for UCODE marathon works, such as Sprints, Races, Checkpoints and Endgame..</h1>
-    <h2 align="center">Feel free to check it out. You can also use it for your own UCODE works (if you are a UCODE student too). I'm studying in September-October 2020</h2>
     <br>
 </p>
+Text
+<h2 align="center">Feel free to use this repository for your own UCODE works (if you are a UCODE student too). I'm studying in September-October 2020</h2>
