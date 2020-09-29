@@ -9,7 +9,7 @@
     <br>
 </p>
 
-<table style="width:100px">
+<table style="width:500px">
     <tr>
         <th>Name</th>
         <th>Description</th>
