@@ -1,14 +1,21 @@
-<p align="center">
-    <a href="https://unitfactory.net/en/" target="_blank">
-        <img src="https://github.com/slava-pleshkov/unit-factory-ucode/blob/master/.git_images/unit_logo.png?raw=true" height="100px">
-    </a>
-    <a href="https://ucode.world/en/" target="_blank">
-        <img src="https://github.com/slava-pleshkov/unit-factory-ucode/blob/master/.git_images/ucode_logo.png?raw=true" height="100px">
-    </a>
-    <h1 align="center">This is my repository for UCODE marathon works, such as Sprints, Races, Checkpoints and Endgame..</h1>
-</p>
+<head>
+    <p align="center">
+        <a href="https://unitfactory.net/en/" target="_blank">
+            <img src="https://github.com/slava-pleshkov/unit-factory-ucode/blob/master/.git_images/unit_logo.png?raw=true" height="100px">
+        </a>
+        <a href="https://ucode.world/en/" target="_blank">
+            <img src="https://github.com/slava-pleshkov/unit-factory-ucode/blob/master/.git_images/ucode_logo.png?raw=true" height="100px">
+        </a>
+        <h1 align="center">This is my repository for UCODE marathon works, such as Sprints, Races, Checkpoints and Endgame..</h1>
+    </p>
+</head>
 
-<table>
+<table id="ucode">
+    <style>
+      ucode{
+        background-image:https://www.iamag.co/wp-content/uploads/2015/11/Caravan-Palace-Lone-Digger-2.jpg;
+        }
+    </style>    
     <tr>
         <th>Name</th>
         <th>Description</th>
