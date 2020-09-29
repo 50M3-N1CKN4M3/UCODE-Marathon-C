@@ -12,7 +12,7 @@
 
 <table bgcolor="#9B5BFF" align="left">  
     <tr>
-        <th colspan="3">Name</th>
+        <th background="https://www.iamag.co/wp-content/uploads/2015/11/Caravan-Palace-Lone-Digger-2.jpg">Name</th>
         <th>Description</th>
         <th>Date</th>
         <th>Grade</th>
