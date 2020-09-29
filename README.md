@@ -9,13 +9,9 @@
         <h1 align="center">This is my repository for UCODE marathon works, such as Sprints, Races, Checkpoints and Endgame..</h1>
     </p>
 </head>
-<style>
-    table {width: 100%; border-spacing: 0; }
-    tr { background: #f6d654 url(https://www.iamag.co/wp-content/uploads/2015/11/Caravan-Palace-Lone-Digger-2.jpg) repeat-y; }
-</style>
-<table bgcolor="#9B5BFF" align="left">  
+<table align="left">  
     <tr>
-        <th background="https://www.iamag.co/wp-content/uploads/2015/11/Caravan-Palace-Lone-Digger-2.jpg">Name</th>
+        <th background: url(https://www.iamag.co/wp-content/uploads/2015/11/Caravan-Palace-Lone-Digger-2.jpg>Name</th>
         <th>Description</th>
         <th>Date</th>
         <th>Grade</th>
