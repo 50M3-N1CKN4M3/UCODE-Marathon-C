@@ -8,6 +8,8 @@
     <h1 align="center">This is my repository for UCODE marathon works, such as Sprints, Races, Checkpoints and Endgame..</h1>
     <br>
 </p>
+
+<hr>
 Function name|Description|Grade|
 |-------------|----------------------------------------------------|---|
 |```mx_printchar```|Prints single character on the standard output.|100|
@@ -26,4 +28,6 @@ Function name|Description|Grade|
 |```mx_binary_search```|Function that searches string ```s``` in array ```arr``` with the given size. Uses the binary search algorithm assuming that input array has already been sorted in lexicographical order.|100|
 |```mx_bubble_sort```|Function that sorts an array of strings in place in exicographical order using bubble sort algorithm.|100|
 |```mx_quicksort```|Function that sorts an array of strings by their length in ascending order using algorithm of quick sort. Pick middle element of the array as pivot. You must not check if ```left``` and ```right``` are correct.|0|
+
+</hr>
 <h4 align="center">Feel free to use this repository for your own UCODE works (if you are a UCODE student too). I'm studying in September-October 2020</h4>
