@@ -10,9 +10,9 @@
     </p>
 </head>
 
-<table width="200" bgcolor="#9B5BFF" align="left">  
+<table bgcolor="#9B5BFF" align="left">  
     <tr>
-        <th>Name</th>
+        <th colspan="3">Name</th>
         <th>Description</th>
         <th>Date</th>
         <th>Grade</th>
