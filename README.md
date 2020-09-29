@@ -7,9 +7,9 @@
             <img src="https://github.com/slava-pleshkov/unit-factory-ucode/blob/master/.git_images/ucode_logo.png?raw=true" height="100px">
         </a>
         <h1 align="center">This is my repository for UCODE marathon works, such as Sprints, Races, Checkpoints and Endgame..</h1>
-        <a href=" " target="_blank">
+        <a href="https://lms.ucode.world/users/plitovka/" target="_blank">
             <img src="https://lms.ucode.world/assets/images/ucode_connect_white.png" height="80px">
-    </a>
+        </a>
     </p>
 </head>
 
