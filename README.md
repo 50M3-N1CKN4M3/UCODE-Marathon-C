@@ -10,7 +10,7 @@
     </p>
 </head>
 
-<table width="200" bgcolor="#9B5BFF" border="50" align="left">  
+<table width="200" bgcolor="#9B5BFF" align="left">  
     <tr>
         <th>Name</th>
         <th>Description</th>
