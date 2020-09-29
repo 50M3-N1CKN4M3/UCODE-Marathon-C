@@ -18,6 +18,7 @@
     </tr>
     <tr>
         <th>Sprint00</th>
+        <th>The basics of UNIX systems (shell, terminal, UNIX utilities, git, etc).</th>
     </tr>
 </table>
 <h4 align="center">Feel free to use this repository for your own UCODE works (if you are a UCODE student too). I'm studying in September-October 2020</h4>
