@@ -8,7 +8,7 @@
         </a>
         <h1 align="center">This is my repository for UCODE marathon works, such as Sprints, Races, Checkpoints and Endgame..</h1>
         <a href="https://lms.ucode.world/users/plitovka/" target="_blank">
-            <p align="center"><img src="https://s3.amazonaws.com/dntstatic//dad227a9-c776-4063-46cc-f5b9975f94b5_256_256.png" height="40px">LMS</p>
+            <p align="center"><img src="https://s3.amazonaws.com/dntstatic//dad227a9-c776-4063-46cc-f5b9975f94b5_256_256.png" height="40px"></p>
         </a>
     </p>
 </head>
