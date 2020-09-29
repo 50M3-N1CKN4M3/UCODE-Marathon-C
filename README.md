@@ -11,14 +11,14 @@
 </head>
 
 <body>
-    <table align="left">  
+    <table width="100%" border="0" cellpadding="4" align="left">  
         <tr>
             <th>Name</th>
             <th>Description</th>
             <th>Date</th>
             <th>Grade</th>
         </tr>
-        <tr><img src="https://www.iamag.co/wp-content/uploads/2015/11/Caravan-Palace-Lone-Digger-2.jpg" width="199" height="133" alt="Книга">
+        <tr>
             <th>Sprint00</th>
             <th>The basics of UNIX systems (shell, terminal, UNIX utilities, git, etc).</th>
             <th>09.09.2020</th>
