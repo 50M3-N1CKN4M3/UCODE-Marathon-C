@@ -90,7 +90,7 @@
         <tr>
             <th>Sprint11</th>
             <th>Linked list.</th>
-            <th>29.09.2020</th>
+            <th>30.09.2020</th>
             <th>__</th>
         </tr>
         <tr>
@@ -109,7 +109,7 @@
             <th>Race02</th>
             <th>Find the shortest path in the maze between the entry and exit points.</th>
             <th>30.09.2020</th>
-            <th>__</th>
+            <th>97</th>
         </tr>
         <tr>
             <th>Race03</th>
