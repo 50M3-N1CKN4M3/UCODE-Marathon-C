@@ -108,7 +108,7 @@
         <tr>
             <th>Race02</th>
             <th>Find the shortest path in the maze between the entry and exit points.</th>
-            <th>__.__.____</th>
+            <th>30.09.2020</th>
             <th>__</th>
         </tr>
         <tr>
