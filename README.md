@@ -91,7 +91,7 @@
             <th>Sprint11</th>
             <th>Linked list.</th>
             <th>30.09.2020</th>
-            <th>__</th>
+            <th>80</th>
         </tr>
         <tr>
             <th>Race00</th>
