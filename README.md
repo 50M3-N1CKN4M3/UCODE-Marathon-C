@@ -103,6 +103,7 @@
             <th>Race01</th>
             <th>Decode encrypted math expression.</th>
             <th>28.09.2020</th>
+            <th></th>
         </tr>
         <tr>
             <th>Race02</th>
@@ -113,8 +114,8 @@
         <tr>
             <th>Race03</th>
             <th>Simulate the Matrix screensaver.</th>
-            <th>__.__.____</th>
-            <th>__</th>
+            <th>02.10.2020</th>
+            <th></th>
         </tr>
         <tr>
             <th>Checkpoint00</th>
@@ -131,14 +132,14 @@
         <tr>
             <th>Checkpoint02</th>
             <th>Challenge yourself without internet, peers, notes, books or any other third-party help.</th>
-            <th>__.__.____</th>
-            <th>__</th>
+            <th>05.10.2020</th>
+            <th></th>
         </tr>
         <tr>
             <th>Endgame</th>
             <th>Game development according to the whole cycle of Challenge Based Learning framework.</th>
-            <th>__.__.____</th>
-            <th>__</th>
+            <th>09.10.2020</th>
+            <th></th>
         </tr>
     </table>
 </body>
