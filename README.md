@@ -133,7 +133,7 @@
             <th>Checkpoint02</th>
             <th>Challenge yourself without internet, peers, notes, books or any other third-party help.</th>
             <th>05.10.2020</th>
-            <th></th>
+            <th>110</th>
         </tr>
         <tr>
             <th>Endgame</th>
