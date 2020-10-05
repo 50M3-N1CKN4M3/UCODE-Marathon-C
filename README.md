@@ -115,7 +115,7 @@
             <th>Race03</th>
             <th>Simulate the Matrix screensaver.</th>
             <th>02.10.2020</th>
-            <th></th>
+            <th>100</th>
         </tr>
         <tr>
             <th>Checkpoint00</th>
