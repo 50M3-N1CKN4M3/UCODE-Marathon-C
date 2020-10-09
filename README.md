@@ -139,7 +139,7 @@
             <th>Endgame</th>
             <th>Game development according to the whole cycle of Challenge Based Learning framework.</th>
             <th>09.10.2020</th>
-            <th></th>
+            <th>100</th>
         </tr>
     </table>
 </body>
