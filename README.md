@@ -1,15 +1,15 @@
 <head>
     <p align="center">
-        <a href="https://unitfactory.net/" target="_blank">
-            <img src="https://github.com/slava-pleshkov/unit-factory-ucode/blob/master/.git_images/unit_logo.png?raw=true" height="100px">
-        </a>
         <a href="https://ucode.world/en/" target="_blank">
-            <img src="https://github.com/slava-pleshkov/unit-factory-ucode/blob/master/.git_images/ucode_logo.png?raw=true" height="100px">
+            <img src="https://github.com/PAXANDDOS/UCODE-Marathon-C/blob/master/.git_images/ucode.png?raw=true" height="100px">
+        </a>
+        <a href="https://unitfactory.net/" target="_blank">
+            <img src="https://github.com/PAXANDDOS/UCODE-Marathon-C/blob/master/.git_images/unit.png?raw=true" height="100px">
+        </a>
+        <a href="https://lms.ucode.world/users/plitovka/" target="_blank">
+            <p align="center"><img src="https://github.com/PAXANDDOS/UCODE-Marathon-C/blob/master/.git_images/lms.png?raw=true" height="100px"></p>
         </a>
         <h1 align="center">This is my repository for UCODE marathon works, such as Sprints, Races, Checkpoints and Endgame..</h1>
-        <a href="https://lms.ucode.world/users/plitovka/" target="_blank">
-            <p align="center"><img src="https://s3.amazonaws.com/dntstatic//dad227a9-c776-4063-46cc-f5b9975f94b5_256_256.png" height="40px"></p>
-        </a>
     </p>
 </head>
 
