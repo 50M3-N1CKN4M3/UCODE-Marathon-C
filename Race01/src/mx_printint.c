@@ -1,4 +1,4 @@
-#include "../inc/minilibmx.h"
+#include "header.h"
 
 void mx_printint(int n) {
 	if (n == 0) {

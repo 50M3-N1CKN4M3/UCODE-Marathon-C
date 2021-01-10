@@ -1,4 +1,4 @@
-#include "../inc/minilibmx.h"
+#include "header.h"
 
 static int number_length(int number) {
 	int length = 0;

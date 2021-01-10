@@ -1,4 +1,4 @@
-#include "../inc/minilibmx.h"
+#include "header.h"
 
 char *mx_strtrim(const char *str) {
     int len = 0;

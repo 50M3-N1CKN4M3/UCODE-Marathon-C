@@ -1,4 +1,4 @@
-#include "../inc/minilibmx.h"
+#include "header.h"
 
 char *mx_strndup(const char *s1, int n) {
     char *duplicate = NULL;

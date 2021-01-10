@@ -1,37 +1,26 @@
-#include "../inc/minilibmx.h"
+#include "header.h"
 
 int mx_atoi(const char *str) {
-  	int sign = 0;
-    int plus = 0;
-  	int digit = 0;
-  	for (unsigned int i = 0; str[i]; ++i) {
-    	if (!mx_isspace(str[i])) {
-      		if (mx_isdigit(str[i]))
-        		digit = digit * 10 + (str[i] - '0');
-      		else if (mx_isspace(str[i + 1]) && str[i] == '-')
-        		return NOT_INT;
-      		else {
-        		if (str[i] == '-') {
-                    if (!str[i + 1])
-                        return NOT_INT;
-          			else if (sign == 0 && plus == 0)
-          				sign = 1;
-          			else
-          				return NOT_INT;//sign == 1 ? -digit : digit;
-        		}
-                else if (str[i] == '+') {
-                    if (!str[i + 1])
-                        return NOT_INT;
-                    else if (plus == 0 && sign == 0) {
-                        plus = 1;
-                    }
-                    else
-                        return NOT_INT;//sign == 1 ? -digit : digit;
-                }
-        		else
-        			return NOT_INT;//sign == 1 ? -digit : digit;
-      		}
-    	}
-  	}
-  	return sign == 1 ? -digit : digit;
+	const char* buffer;
+	while(*str == ' ' || *str == '\t' || *str == '\n' || *str == '\v' || *str == '\f' || *str == '\r') {
+		str++;
+	}
+	int num = 0;
+	int digit = (str[0] == '-') ? -1 : 1;
+	if (!(str[0] >= '0' && str[0] <= '9') && str[0] != '-' && str[0] != '+') {
+		return 0;
+	}
+	if (str[0] == '-' || str[0] == '+') {
+		str++;
+	}
+	buffer = str;
+	while(*buffer >= '0' && *buffer <= '9') {
+		num *= 10;
+		num += *buffer - '0';
+		buffer++;
+	}
+	if (*buffer != '\0') {
+		return 0;
+	}
+	return num * digit;
 }

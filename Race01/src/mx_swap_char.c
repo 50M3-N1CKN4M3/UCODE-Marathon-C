@@ -1,4 +1,4 @@
-#include "../inc/minilibmx.h"
+#include "header.h"
 
 void mx_swap_char(char *s1, char *s2) {
     char s3 = *s1;

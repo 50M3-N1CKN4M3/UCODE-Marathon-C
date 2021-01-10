@@ -1,4 +1,4 @@
-#include "../inc/minilibmx.h"
+#include "header.h"
 
 char *mx_strnew(const int size) {
     char *memory = NULL;

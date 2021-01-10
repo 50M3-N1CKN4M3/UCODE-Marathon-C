@@ -1,4 +1,4 @@
-#include "../inc/minilibmx.h"
+#include "header.h"
 
 void mx_str_reverse(char *s) {
     int len = mx_strlen(s) - 1;

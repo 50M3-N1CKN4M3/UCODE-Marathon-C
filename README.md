@@ -102,8 +102,8 @@
         <tr>
             <th>Race01</th>
             <th>Decode encrypted math expression.</th>
-            <th>28.09.2020</th>
-            <th></th>
+            <th>06.01.2021</th>
+            <th>108</th>
         </tr>
         <tr>
             <th>Race02</th>

@@ -1,4 +1,4 @@
-#include "../inc/minilibmx.h"
+#include "header.h"
 
 char *mx_strncpy(char *dst, const char *src, int len) {
     int i = 0;
